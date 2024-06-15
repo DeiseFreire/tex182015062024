@@ -1,3 +1,5 @@
+![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
+
 This LaTeX code demonstrates how to calculate the composition of two functions, `f(x)` and `g(x)`, and determine the resulting function `f(g(x))`.
 
 ## 💕 **Functions**
