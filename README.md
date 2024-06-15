@@ -21,6 +21,7 @@ The code utilizes the following LaTeX commands:
 * `\left( ... \right)`: Grouping parentheses.
 * `\cdot`: Multiplication symbol.
 * `^{2}`: Superscript for exponents.
+*  `fof\left( x \right)`: Represents the composition of functions fof(x).
 
 ## 💕 **Steps**
 
