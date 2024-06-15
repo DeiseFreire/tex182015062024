@@ -48,4 +48,4 @@ f(g(x)) = f(x^2 + x - 1) = 3(x^2 + x - 1) - 1 = 9x - 4
 
 ## 💕 **Image**
 
-[image](https://github.com/DeiseFreire/tex182015062024/blob/main/imagem.png)
+![image](https://github.com/DeiseFreire/tex182015062024/blob/main/imagem.png)
