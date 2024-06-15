@@ -38,6 +38,9 @@ The code produces the following mathematical representation:
 ```
 f(g(x)) = f(x^2 + x - 1) = 3(x^2 + x - 1) - 1 = 9x - 4
 ```
+## 💕 **Result:**
+
+The code calculates fof(x) and displays the final answer: fof(x) = 9x - 4.
 
 ## 💕 **How to Use**
 
