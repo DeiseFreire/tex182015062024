@@ -45,3 +45,7 @@ f(g(x)) = f(x^2 + x - 1) = 3(x^2 + x - 1) - 1 = 9x - 4
 
 * This code provides a basic example of function composition. 
 * For more advanced formatting and layout options, explore additional LaTeX packages.
+
+## 💕 **Image**
+
+[image]()
