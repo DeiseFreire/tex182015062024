@@ -54,4 +54,4 @@ The code calculates fof(x) and displays the final answer: fof(x) = 9x - 4.
 
 ## 💕 **Image**
 
-![image](https://github.com/DeiseFreire/tex182015062024/blob/main/imagem.png)
+![image](https://github.com/DeiseFreire/tex182015062024/blob/main/image.png)
